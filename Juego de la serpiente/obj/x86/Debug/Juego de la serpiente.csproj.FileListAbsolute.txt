@@ -1,0 +1,23 @@
+C:\Users\dellpc\AppData\Local\Temporary Projects\Juego de la serpiente\bin\Debug\Juego de la serpiente.exe
+C:\Users\dellpc\AppData\Local\Temporary Projects\Juego de la serpiente\bin\Debug\Juego de la serpiente.pdb
+C:\Users\dellpc\AppData\Local\Temporary Projects\Juego de la serpiente\obj\x86\Debug\Juego_de_la_serpiente.Form1.resources
+C:\Users\dellpc\AppData\Local\Temporary Projects\Juego de la serpiente\obj\x86\Debug\Juego_de_la_serpiente.Properties.Resources.resources
+C:\Users\dellpc\AppData\Local\Temporary Projects\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.csproj.GenerateResource.Cache
+C:\Users\dellpc\AppData\Local\Temporary Projects\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.exe
+C:\Users\dellpc\AppData\Local\Temporary Projects\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.pdb
+C:\Users\dellpc\documents\visual studio 2010\Projects\Juego de la serpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.exe
+C:\Users\dellpc\documents\visual studio 2010\Projects\Juego de la serpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.pdb
+C:\Users\dellpc\documents\visual studio 2010\Projects\Juego de la serpiente\Juego de la serpiente\bin\Debug\Juego de la serpiente.exe
+C:\Users\dellpc\documents\visual studio 2010\Projects\Juego de la serpiente\Juego de la serpiente\bin\Debug\Juego de la serpiente.pdb
+C:\Users\dellpc\documents\visual studio 2010\Projects\Juego de la serpiente\Juego de la serpiente\obj\x86\Debug\Juego_de_la_serpiente.Form1.resources
+C:\Users\dellpc\documents\visual studio 2010\Projects\Juego de la serpiente\Juego de la serpiente\obj\x86\Debug\Juego_de_la_serpiente.Properties.Resources.resources
+C:\Users\dellpc\documents\visual studio 2010\Projects\Juego de la serpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.csproj.GenerateResource.Cache
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juego de la serpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.csprojResolveAssemblyReference.cache
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\bin\Debug\Juego de la serpiente.exe
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\bin\Debug\Juego de la serpiente.pdb
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.csprojResolveAssemblyReference.cache
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\obj\x86\Debug\Juego_de_la_serpiente.Form1.resources
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\obj\x86\Debug\Juego_de_la_serpiente.Properties.Resources.resources
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.csproj.GenerateResource.Cache
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.exe
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.pdb
