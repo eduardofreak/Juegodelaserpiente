@@ -17,8 +17,8 @@ namespace Juego_de_la_serpiente
         public Comida(Random RandComida)
         {
             //le damos el rango en el que se podria colocar la comida
-            x = RandComida.Next(0, 28) * 10;
-            y = RandComida.Next(0, 26) * 10;
+            x = RandComida.Next(0, 33) * 10;
+            y = RandComida.Next(0, 29) * 10;
 
             //Rellenamos el rectangulo comida
             brocha = new SolidBrush(Color.Red);
@@ -32,8 +32,8 @@ namespace Juego_de_la_serpiente
         //Creamos un metodo para dar la posicion a la comida dentro del rango marcado
         public void PosicionComida(Random RandComida)
         {
-            x = RandComida.Next(0, 28) * 10;
-            y = RandComida.Next(0, 26) * 10;
+            x = RandComida.Next(0, 33) * 10;
+            y = RandComida.Next(0, 29) * 10;
         }
 
         //Creamos el metodo dibujar comida, dada la posicion aleatoria, es donde se creara y rellenara el rectangulo de comida

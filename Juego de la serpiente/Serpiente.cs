@@ -85,6 +85,7 @@ namespace Juego_de_la_serpiente
             RecSerpiente[0].X -= 10;
         }
 
+
         //Creamos el metodo para cuando la serpiente come, con una lista donde se guardara el nuevo rectangulo.
         public void AumentarSerp()
         {
@@ -98,7 +99,7 @@ namespace Juego_de_la_serpiente
         {
             List<Rectangle> rec = RecSerpiente.ToList();
             //Agregamos un ciclo para poner rectangulos en la parte de atras
-            for (int a = 1; a <= 3; a++)
+            for (int a = 1; a <= 2; a++)
             {
                 rec.Add(new Rectangle(RecSerpiente[a].X, RecSerpiente[a].Y, ancho, largo));
                 RecSerpiente = rec.ToArray();
@@ -109,7 +110,7 @@ namespace Juego_de_la_serpiente
         {
             List<Rectangle> rec = RecSerpiente.ToList();
             //Agregamos un ciclo para poner rectangulos en la parte de atras
-            for (int a = 1; a <= 6; a++)
+            for (int a = 1; a <= 3; a++)
             {
                 rec.Add(new Rectangle(RecSerpiente[a].X, RecSerpiente[a].Y, ancho, largo));
                 RecSerpiente = rec.ToArray();

@@ -21,3 +21,13 @@ C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego d
 C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.csproj.GenerateResource.Cache
 C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.exe
 C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.pdb
+C:\Users\dellpc\Documents\Visual Studio 2010\Projects\Juegodelaserpiente\Juego de la serpiente\bin\Debug\Juego de la serpiente.exe.config
+C:\Users\dellpc\Documents\GitHub\JuegoDeLaSerpiente\Juego de la serpiente\bin\Debug\Juego de la serpiente.exe.config
+C:\Users\dellpc\Documents\GitHub\JuegoDeLaSerpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.exe
+C:\Users\dellpc\Documents\GitHub\JuegoDeLaSerpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.pdb
+C:\Users\dellpc\Documents\GitHub\JuegoDeLaSerpiente\Juego de la serpiente\bin\Debug\Juego de la serpiente.exe
+C:\Users\dellpc\Documents\GitHub\JuegoDeLaSerpiente\Juego de la serpiente\bin\Debug\Juego de la serpiente.pdb
+C:\Users\dellpc\Documents\GitHub\JuegoDeLaSerpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.csprojResolveAssemblyReference.cache
+C:\Users\dellpc\Documents\GitHub\JuegoDeLaSerpiente\Juego de la serpiente\obj\x86\Debug\Juego_de_la_serpiente.Form1.resources
+C:\Users\dellpc\Documents\GitHub\JuegoDeLaSerpiente\Juego de la serpiente\obj\x86\Debug\Juego_de_la_serpiente.Properties.Resources.resources
+C:\Users\dellpc\Documents\GitHub\JuegoDeLaSerpiente\Juego de la serpiente\obj\x86\Debug\Juego de la serpiente.csproj.GenerateResource.Cache

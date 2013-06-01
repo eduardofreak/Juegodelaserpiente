@@ -6,27 +6,28 @@ using System.Text;
 
 namespace Juego_de_la_serpiente
 {
-    class ComidaGrande
+    public class ComidaMuerte
     {
         //Declaramos
         private int x, y, ancho, largo;
         private SolidBrush brocha;
-        public Rectangle RecComida2;
+        public Rectangle RecComidaMuerte;
 
         //Creamos un constructor para poner aleatoreamente la comida
-        public ComidaGrande(Random RandComida)
+        public ComidaMuerte(Random RandComida)
         {
+            
             //le damos el rango en el que se podria colocar la comida
             x = RandComida.Next(0, 33) * 10;
             y = RandComida.Next(0, 29) * 10;
 
             //Rellenamos el rectangulo comida
-            brocha = new SolidBrush(Color.Yellow);
+            brocha = new SolidBrush(Color.Black);
 
-            ancho = 15;
-            largo = 15;
+            ancho = 20;
+            largo = 20;
 
-            RecComida2 = new Rectangle(x, y, ancho, largo);
+            RecComidaMuerte = new Rectangle(x, y, ancho, largo);
         }
 
         //Creamos un metodo para dar la posicion a la comida dentro del rango marcado
@@ -39,11 +40,10 @@ namespace Juego_de_la_serpiente
         //Creamos el metodo dibujar comida, dada la posicion aleatoria, es donde se creara y rellenara el rectangulo de comida
         public void DibComida(Graphics dibujar)
         {
-            RecComida2.X = x;
-            RecComida2.Y = y;
+            RecComidaMuerte.X = x;
+            RecComidaMuerte.Y = y;
 
-            dibujar.FillRectangle(brocha, RecComida2);
+            dibujar.FillRectangle(brocha, RecComidaMuerte);
         }
-
     }
 }
